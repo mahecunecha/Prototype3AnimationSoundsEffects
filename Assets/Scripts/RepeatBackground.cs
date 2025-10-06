@@ -4,18 +4,20 @@ using UnityEngine;
 
 public class RepeatBackground : MonoBehaviour
 {
-    public Vector3 startPos; // definimos una variable que va a guardar la posicion x,y,z
+    private Vector3 startPos; // definimos una variable que va a guardar la posicion x,y,z
+    private float repeatWidht;
 
     // Start is called before the first frame update
     void Start()
     {
         startPos = transform.position;// asignamos a startPos el valor de la pocision inicial 
+        repeatWidht = GetComponent<BoxCollider>().size.x / 2;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (transform.position.x < startPos.x )
+        if (transform.position.x < startPos.x - repeatWidht)
         {
             transform.position = startPos;
         }

@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Aprendiz\\Desktop\\unity\\Prototype3AanimationSoundsEffects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aprendiz\\Desktop\\unity\\Prototype3AanimationSoundsEffects\\Assets\\Scripts\\RepeatBackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\RepeatBackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A175167-7FD3-6118-4FF0-3DD89BB94958}|Assembly-CSharp.csproj|c:\\users\\aprendiz\\desktop\\unity\\prototype3aanimationsoundseffects\\assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A175167-7FD3-6118-4FF0-3DD89BB94958}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A175167-7FD3-6118-4FF0-3DD89BB94958}|Assembly-CSharp.csproj|c:\\users\\aprendiz\\desktop\\unity\\prototype3aanimationsoundseffects\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A175167-7FD3-6118-4FF0-3DD89BB94958}|Assembly-CSharp.csproj|C:\\Users\\Aprendiz\\Desktop\\unity\\Prototype3AanimationSoundsEffects\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A175167-7FD3-6118-4FF0-3DD89BB94958}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A175167-7FD3-6118-4FF0-3DD89BB94958}|Assembly-CSharp.csproj|c:\\users\\aprendiz\\desktop\\unity\\prototype3aanimationsoundseffects\\assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A175167-7FD3-6118-4FF0-3DD89BB94958}|Assembly-CSharp.csproj|C:\\Users\\Aprendiz\\Desktop\\unity\\Prototype3AanimationSoundsEffects\\assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A175167-7FD3-6118-4FF0-3DD89BB94958}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,9 +34,9 @@
               "Title": "RepeatBackground.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\unity\\Prototype3AanimationSoundsEffects\\Assets\\Scripts\\RepeatBackground.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RepeatBackground.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\unity\\Prototype3AanimationSoundsEffects\\Assets\\Scripts\\RepeatBackground.cs*",
-              "RelativeToolTip": "Assets\\Scripts\\RepeatBackground.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\unity\\Prototype3AanimationSoundsEffects\\Assets\\Scripts\\RepeatBackground.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepeatBackground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T20:53:12.742Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T19:52:56.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T19:52:56.814Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MoveLeft.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T19:37:07.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T19:37:07.058Z"
             },
             {
               "$type": "Document",
